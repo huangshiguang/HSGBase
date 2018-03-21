@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HSGBase_Example' do
+  pod 'HSGBase', :path => '../'
+
+  target 'HSGBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
