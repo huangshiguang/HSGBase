@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		08C459CF36AD49440B1B85F2 /* Pods_HSGBase_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HSGBase_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2B630286EA777393CE631F93 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2B630286EA777393CE631F93 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* HSGBase_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HSGBase_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -42,11 +42,11 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6C0A263BDB1FE66E76CA260D /* Pods-HSGBase_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSGBase_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HSGBase_Example/Pods-HSGBase_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6E6F187B9C038F05EAF19540 /* Pods-HSGBase_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSGBase_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HSGBase_Example/Pods-HSGBase_Example.release.xcconfig"; sourceTree = "<group>"; };
-		73B00032BE051582FA17AA0D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		73B00032BE051582FA17AA0D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9FEEC04D4F9E3F8810E5BB9D /* Pods-HSGBase_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSGBase_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HSGBase_Tests/Pods-HSGBase_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		D64183CE619F2CF64501DAC2 /* Pods_HSGBase_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HSGBase_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E18F8F797D015C2020C75257 /* Pods-HSGBase_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSGBase_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HSGBase_Tests/Pods-HSGBase_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		EAEED7134534B9894B683EF8 /* HSGBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HSGBase.podspec; path = ../HSGBase.podspec; sourceTree = "<group>"; };
+		EAEED7134534B9894B683EF8 /* HSGBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HSGBase.podspec; path = ../HSGBase.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
